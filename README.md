@@ -11,7 +11,7 @@ This script is designed for Grand Theft Auto V (GTA V) introducing a British-sty
 - The script dynamically controls the flashing effect of the pedestrian crossing beacon. The beacon alternates between on and off states, creating a visually appealing and attention-grabbing element for nearby players.
 
 
-## Features
+## Bugs
 - Some props don't work (Will work out and update soon)!
 
 ## Requirements
